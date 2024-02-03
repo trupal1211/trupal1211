@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML5 , CSS3 , java-script , bootstrap**
+- 💬 Ask me about **HTML5 , CSS3 , java-script , bootstrap , react , mysql**
 
 - 📫 How to reach me **trupalgodhat@1211gmail.com**
 
